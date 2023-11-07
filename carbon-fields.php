@@ -5,7 +5,7 @@
  * Plugin URI: https://www.importwp.com
  * Description: Allow Import WP to import Carbon Fields.
  * Author: James Collings <james@jclabs.co.uk>
- * Version: 0.0.1
+ * Version: __STABLE_TAG__
  * Author URI: https://www.importwp.com
  * Network: True
  */
